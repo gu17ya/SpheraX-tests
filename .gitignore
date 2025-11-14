@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Screenshots, videos, traces
+*.zip
+
+# Logs
+*.log

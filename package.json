@@ -1,0 +1,11 @@
+{
+  "name": "spherax-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.44.0",
+    "dotenv": "^16.3.1"
+  }
+}
